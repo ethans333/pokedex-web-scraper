@@ -1,3 +1,10 @@
+/*
+created by @ethans333
+8/19/2020
+
+version 1.0
+*/
+
 const puppeteer = require('puppeteer');
 const readline = require('readline')
 const terminalImage = require('terminal-image');
